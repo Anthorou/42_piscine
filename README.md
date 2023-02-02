@@ -17,7 +17,7 @@ c04 : 70% (correct jusqu'à ex03)
 -
 c05 : 80% (correct jusqu'à ex07)
 -
-c06 : 
+c06 : 100%
 -
 c07 : 60% (correct jusqu'à ex03)
 -
